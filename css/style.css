@@ -1,0 +1,121 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+.r{width: 1500px;}
+h3 {
+    font-family: sans-serif;
+}
+.yt{background-color:#808080	}
+p {
+    font-family: verdana;
+}
+
+li {
+    font-family: verdana;
+
+}
+
+a {
+    color: lightgrey;
+    margin: 35px;
+}
+
+.the-moon-img {
+    margin: 40px;
+
+}
+
+header {
+   background-color:#191919;
+    color: white;
+}
+
+
+.lead {
+    width: 440px;
+    height: 364px;
+}
+
+.recommendations-2 {
+    width: 440px;
+    height: 364px;
+}
+
+.recommendations-1 {
+    width: 440px;
+    height: 364px;
+}
+nav{background-color:#101010
+}
+.features {
+    display: flex;
+    justify-content: space-around;
+}
+
+.feature-russia {
+    width: 180px;
+    height: 252px;
+
+}
+.sd{color: rgb(256,256,256);
+    
+}
+.feature-food {
+    width: 180px;
+    height: 252px;
+}
+
+.feature-pilots {
+    width: 180px;
+    height: 252px;
+
+}
+
+.feature-excursion {
+    width: 180px;
+    height: 252px;
+
+}
+
+.moon {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu {
+    display: flex;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    outline: 1px solid orange;
+    background-color: black;
+    color: white;
+}
+
+.company-menu {
+    color: grey;
+}
+TABLE {
+    width: 1500px; /* Ширина таблицы */text-align: center;
+}
+.gfe{
+    width: 500px;display: block;
+font-size: 1.17em;
+margin-top: 1em;
+margin-bottom: 1em;
+margin-left: 0;
+margin-right: 0;
+font-weight: bold;
+    
+}
+.gfd{
+    width: 500px;
+}
